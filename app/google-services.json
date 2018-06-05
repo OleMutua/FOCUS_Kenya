@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "508169358544",
+    "firebase_url": "https://focus-kenya.firebaseio.com",
+    "project_id": "focus-kenya",
+    "storage_bucket": "focus-kenya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508169358544:android:7aee953f5ae3ef2a",
+        "android_client_info": {
+          "package_name": "org.focuskenya.focuskenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508169358544-lqhq9md7pnq5fe9vchekv0oidslfdusc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.focuskenya.focuskenya",
+            "certificate_hash": "24ce1d10c8e332a9cb675236174ece224471b3ce"
+          }
+        },
+        {
+          "client_id": "508169358544-mjnno90kr2vaht52ombgn72uu78e9tc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAibs9hjSQtUpmYwIv0qLmq0xq6xbCY8AU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508169358544-mjnno90kr2vaht52ombgn72uu78e9tc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
