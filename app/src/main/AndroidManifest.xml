@@ -44,7 +44,8 @@
         <!-- ./Firebase Notifications -->
         <activity android:name=".Notifications" />
         <activity android:name=".FBCommentsActivity" />
-        <activity android:name=".Initiatives"></activity>
+        <activity android:name=".Initiatives" />
+        <activity android:name=".PrayerItems"></activity>
     </application>
 
 </manifest>

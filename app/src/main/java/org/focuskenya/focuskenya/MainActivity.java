@@ -196,8 +196,8 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_camera) {
             // Handle the camera action
         } else if (id == R.id.nav_notifications) {
-            Intent notifications = new Intent(this, Notifications.class);
-            startActivity(notifications);
+            Intent prayeritems = new Intent(this, PrayerItems.class);
+            startActivity(prayeritems);
         }else if (id == R.id.nav_gallery) {
 
         } else if (id == R.id.nav_slideshow) {

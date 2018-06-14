@@ -7,11 +7,11 @@
         <item
             android:id="@+id/nav_camera"
             android:icon="@drawable/ic_menu_camera"
-            android:title="Home" />
+            android:title="What's New" />
         <item
             android:id="@+id/nav_notifications"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Notifications" />
+            android:title="Prayer Items" />
         <item
             android:id="@+id/nav_gallery"
             android:icon="@drawable/ic_menu_gallery"

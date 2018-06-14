@@ -28,8 +28,8 @@ public class Initiatives extends AppCompatActivity {
 
         webView = (WebView) findViewById(R.id.web_view);
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+//        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+//        setSupportActionBar(toolbar);
 
         progressBar = (ProgressBar)findViewById(R.id.progressBar);
         // loading web page - This caches the content
